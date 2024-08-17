@@ -2,8 +2,8 @@
 #define _NPC_STREAMER_INC
 
 // NPC Streamer Include
-// Yazar: [Senin İsmin]
-// Tarih: [Bugünün Tarihi]
+// Yazar: ReveR
+// Tarih: 17.08.2024
 
 // NPC'yi oluşturur
 native SNPC_Create(const name[], const script[]);
