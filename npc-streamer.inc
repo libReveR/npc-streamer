@@ -2,7 +2,7 @@
 #define _NPC_STREAMER_INC
 
 // NPC Streamer Include
-// Yazar: ReveR
+// Yazar: ReveR (Batu)
 // Tarih: 17.08.2024
 
 // NPC'yi oluşturur
